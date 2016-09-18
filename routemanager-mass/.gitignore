@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+[http]
+    proxy = http://10.10.78.61:3128
+
+[https]
+    proxy = https://10.10.78.61:3128
